@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Что такое Python?",
+      "options": ["Язык программирования", "Тип данных", "Музыкальный инструмент", "Змея на английском"],
+      "correct_option": 0
+    },
+    {
+      "question": "Какой тип данных хранит целые числа в Python?",
+      "options": ["int", "float", "str", "bool"],
+      "correct_option": 0
+    },
+    {
+      "question": "Как получить длину списка lst?",
+      "options": ["size(lst)", "length(lst)", "len(lst)", "count(lst)"],
+      "correct_option": 2
+    },
+    {
+      "question": "Какой результат у выражения: 3 * 'ab'?",
+      "options": ["'ababab'", "Ошибка", "'ab3'", "['ab','ab','ab']"],
+      "correct_option": 0
+    },
+    {
+      "question": "Как обозначается блок контекстного менеджера?",
+      "options": ["with ... as ...:", "using ... do ...", "context ... end", "enter ...:"],
+      "correct_option": 0
+    },
+    {
+      "question": "Какой модуль использовать для асинхронности в Python?",
+      "options": ["threading", "multiprocessing", "asyncio", "timeit"],
+      "correct_option": 2
+    },
+    {
+      "question": "Как открыть файл для чтения в кодировке UTF-8?",
+      "options": ["open('f.txt')", "open('f.txt','r')", "open('f.txt','r',encoding='utf-8')", "open('f.txt','utf-8')"],
+      "correct_option": 2
+    },
+    {
+      "question": "Как преобразовать строку '123' в число?",
+      "options": ["toint('123')", "cast('123')", "int('123')", "str(123)"],
+      "correct_option": 2
+    },
+    {
+      "question": "Как создать виртуальное окружение venv?",
+      "options": ["python -m venv venv", "pip venv create", "venv init", "python create venv"],
+      "correct_option": 0
+    },
+    {
+      "question": "Как установить пакет из requirements.txt?",
+      "options": ["pip load requirements.txt", "pip install -r requirements.txt", "pip add requirements.txt", "python -m pip add req"],
+      "correct_option": 1
+    }
+  ]
+  
