@@ -18,5 +18,5 @@ python -m venv venv
 # Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 .\venv\Scripts\activate
 pip install -r requirements.txt
-copy .env.example .env  # и вставьте токен
+copy env.example .env  # и вставьте токен
 python main.py
